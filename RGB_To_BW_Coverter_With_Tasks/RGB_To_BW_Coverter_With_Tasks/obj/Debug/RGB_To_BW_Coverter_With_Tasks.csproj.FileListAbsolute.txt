@@ -1,0 +1,8 @@
+C:\Users\Milos\OneDrive\Radna površina\fax\3. godina\sistemsko\Sistemsko-programiranje-procesi\RGB_To_BW_Coverter_With_Tasks\RGB_To_BW_Coverter_With_Tasks\bin\Debug\RGB_To_BW_Coverter_With_Tasks.exe.config
+C:\Users\Milos\OneDrive\Radna površina\fax\3. godina\sistemsko\Sistemsko-programiranje-procesi\RGB_To_BW_Coverter_With_Tasks\RGB_To_BW_Coverter_With_Tasks\bin\Debug\RGB_To_BW_Coverter_With_Tasks.exe
+C:\Users\Milos\OneDrive\Radna površina\fax\3. godina\sistemsko\Sistemsko-programiranje-procesi\RGB_To_BW_Coverter_With_Tasks\RGB_To_BW_Coverter_With_Tasks\bin\Debug\RGB_To_BW_Coverter_With_Tasks.pdb
+C:\Users\Milos\OneDrive\Radna površina\fax\3. godina\sistemsko\Sistemsko-programiranje-procesi\RGB_To_BW_Coverter_With_Tasks\RGB_To_BW_Coverter_With_Tasks\obj\Debug\RGB_To_BW_Coverter_With_Tasks.csproj.AssemblyReference.cache
+C:\Users\Milos\OneDrive\Radna površina\fax\3. godina\sistemsko\Sistemsko-programiranje-procesi\RGB_To_BW_Coverter_With_Tasks\RGB_To_BW_Coverter_With_Tasks\obj\Debug\RGB_To_BW_Coverter_With_Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Milos\OneDrive\Radna površina\fax\3. godina\sistemsko\Sistemsko-programiranje-procesi\RGB_To_BW_Coverter_With_Tasks\RGB_To_BW_Coverter_With_Tasks\obj\Debug\RGB_To_BW_Coverter_With_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Milos\OneDrive\Radna površina\fax\3. godina\sistemsko\Sistemsko-programiranje-procesi\RGB_To_BW_Coverter_With_Tasks\RGB_To_BW_Coverter_With_Tasks\obj\Debug\RGB_To_BW_Coverter_With_Tasks.exe
+C:\Users\Milos\OneDrive\Radna površina\fax\3. godina\sistemsko\Sistemsko-programiranje-procesi\RGB_To_BW_Coverter_With_Tasks\RGB_To_BW_Coverter_With_Tasks\obj\Debug\RGB_To_BW_Coverter_With_Tasks.pdb
